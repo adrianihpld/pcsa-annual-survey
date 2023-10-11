@@ -1,0 +1,11 @@
+C:\Users\hpld1\source\repos\PscaAnnualSurveyWin2022\PscaAnnualSurveyWin2022\bin\Debug\PscaAnnualSurveyWin2022.exe.config
+C:\Users\hpld1\source\repos\PscaAnnualSurveyWin2022\PscaAnnualSurveyWin2022\bin\Debug\PscaAnnualSurveyWin2022.exe
+C:\Users\hpld1\source\repos\PscaAnnualSurveyWin2022\PscaAnnualSurveyWin2022\bin\Debug\PscaAnnualSurveyWin2022.pdb
+C:\Users\hpld1\source\repos\PscaAnnualSurveyWin2022\PscaAnnualSurveyWin2022\obj\Debug\PscaAnnualSurveyWin2022.csproj.AssemblyReference.cache
+C:\Users\hpld1\source\repos\PscaAnnualSurveyWin2022\PscaAnnualSurveyWin2022\obj\Debug\PscaAnnualSurveyWin2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\hpld1\source\repos\PscaAnnualSurveyWin2022\PscaAnnualSurveyWin2022\obj\Debug\PscaAnnualSurveyWin2022.Form1.resources
+C:\Users\hpld1\source\repos\PscaAnnualSurveyWin2022\PscaAnnualSurveyWin2022\obj\Debug\PscaAnnualSurveyWin2022.Properties.Resources.resources
+C:\Users\hpld1\source\repos\PscaAnnualSurveyWin2022\PscaAnnualSurveyWin2022\obj\Debug\PscaAnnualSurveyWin2022.csproj.GenerateResource.cache
+C:\Users\hpld1\source\repos\PscaAnnualSurveyWin2022\PscaAnnualSurveyWin2022\obj\Debug\PscaAnnualSurveyWin2022.csproj.CoreCompileInputs.cache
+C:\Users\hpld1\source\repos\PscaAnnualSurveyWin2022\PscaAnnualSurveyWin2022\obj\Debug\PscaAnnualSurveyWin2022.exe
+C:\Users\hpld1\source\repos\PscaAnnualSurveyWin2022\PscaAnnualSurveyWin2022\obj\Debug\PscaAnnualSurveyWin2022.pdb
